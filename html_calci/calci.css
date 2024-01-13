@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #d4d246;
+}
+
+.calculator {
+    margin: 20px auto;
+    max-width: 300px; /* Set a maximum width for the calculator box */
+    background-color: #e6aaaa;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input {
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    background-color: #eee;
+    border: 1px solid #a0a0a0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    margin: 5px;
+    background-color: rgb(81, 100, 97);
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+button:active {
+    background-color: #3e8e41;
+}
