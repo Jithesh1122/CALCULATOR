@@ -7,7 +7,7 @@ body {
 
 .calculator {
     margin: 20px auto;
-    max-width: 300px; /* Set a maximum width for the calculator box */
+    max-width: 300px; 
     background-color: #e6aaaa;
     border: 1px solid #ccc;
     padding: 20px;
